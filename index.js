@@ -67,7 +67,6 @@ const check = () => {
   // scene.render()
   num === 0 ? imgView.src = imgs[0] : null
   num === 1 ? imgView.src = imgs[1] : null
-  console.log('on check')
 }
 
 check()
